@@ -4,11 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivityFore extends AppCompatActivity {
+public class MainActivityGooglemaps extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main_fore);
+        setContentView(R.layout.activity_main_googlemaps);
     }
 }
